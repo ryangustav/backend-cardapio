@@ -16,9 +16,9 @@ Backend de um cardápio usando spring e postgresql
 
 ## Getting Started/Contribute
 
-1. **Clone project**: `git clone https://github.com/ryangustav/frontend_cardapio`
+1. **Clone project**: `git clone https://github.com/ryangustav/frontend_cardapio.git`
 2. **Install dependencies**: `npm install`
-3. **Clone backend project**: `git glone https://github.com/ryangustav/backend_cardapio/`
+3. **Clone backend project**: `git glone https://github.com/ryangustav/backend_cardapio.git`
 4. **Install backend dependencies**: `mvn dependency:resolve`
 5. **Start backend**: `mvn spring-boot:run`
 6. **Start Developing**: `npm run dev`
