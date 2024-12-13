@@ -6,7 +6,7 @@
 
 # Cardápio
 
-Backend de um cardápio usando
+Backend de um cardápio usando spring e postgresql
 
 ## Tech Stack
 
